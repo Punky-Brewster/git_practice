@@ -1,3 +1,1 @@
-Hello git and github# git_practice
-# git_practice
-# git_practice
+Hello git and github
